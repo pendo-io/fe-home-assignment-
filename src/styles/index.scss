@@ -4,3 +4,8 @@ body {
   color: $body-color;
   font-family: sans-serif;
 }
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+}
